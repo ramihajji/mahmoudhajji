@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate backend developer from Germany</h3>
+<h3 align="center">A passionate full stack developer from Germany</h3>
 
 - 🔭 I’m currently working on [sgmi](www.sgmi.io)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📫 How to reach me **rami_hajji@outlook.de**
+- 📫 How to reach me **mahmoud.hajji@outlook.de**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ksO9RuLz65RJQXg3CoOJWaW_BHobieG0/view?usp=sharing](https://drive.google.com/file/d/1ksO9RuLz65RJQXg3CoOJWaW_BHobieG0/view?usp=sharing)
 
