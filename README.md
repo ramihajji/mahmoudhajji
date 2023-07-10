@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rami</h1>
-<h3 align="center">A passionate full stack developer from Germany</h3>
+<h3 align="center">A passionate technical product owner from Germany</h3>
 
-- 🔭 I’m currently working on [sgmi](www.sgmi.io)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 👯 I’m looking to collaborate on **open source projects**
+- 🔭 I’m currently working as a Technical Scrum Product Owner
 
 - 📫 How to reach me **rami_hajji@outlook.de**
 
